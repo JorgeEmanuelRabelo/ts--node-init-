@@ -66,6 +66,13 @@ If you are writing a npm package specify **main** and **types** path and add **-
   }
 ```
 
+
+## ADD
+npm i express @types/express
+
+yard add express @types/express
+
+
 ## Run
 
 
